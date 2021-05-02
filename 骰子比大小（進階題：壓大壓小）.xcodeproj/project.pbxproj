@@ -13,6 +13,9 @@
 		578AF1F3263AF3E800E65846 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 578AF1F1263AF3E800E65846 /* Main.storyboard */; };
 		578AF1F5263AF3EC00E65846 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 578AF1F4263AF3EC00E65846 /* Assets.xcassets */; };
 		578AF1F8263AF3EC00E65846 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 578AF1F6263AF3EC00E65846 /* LaunchScreen.storyboard */; };
+		578AF206263B094600E65846 /* jf-openhuninn-1.1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 578AF205263B094600E65846 /* jf-openhuninn-1.1.ttf */; };
+		57FD23BA263E3E9700C479F9 /* Yayyy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 57FD23B9263E3E9700C479F9 /* Yayyy.mp3 */; };
+		57FD23BD263E3F8700C479F9 /* Crowd Aww.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 57FD23BC263E3F8700C479F9 /* Crowd Aww.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		578AF1F4263AF3EC00E65846 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		578AF1F7263AF3EC00E65846 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		578AF1F9263AF3EC00E65846 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		578AF205263B094600E65846 /* jf-openhuninn-1.1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "jf-openhuninn-1.1.ttf"; sourceTree = "<group>"; };
+		57FD23B9263E3E9700C479F9 /* Yayyy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Yayyy.mp3; sourceTree = "<group>"; };
+		57FD23BC263E3F8700C479F9 /* Crowd Aww.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Crowd Aww.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		578AF1EA263AF3E800E65846 /* 骰子比大小（進階題：壓大壓小） */ = {
 			isa = PBXGroup;
 			children = (
+				57FD23B9263E3E9700C479F9 /* Yayyy.mp3 */,
+				57FD23BC263E3F8700C479F9 /* Crowd Aww.mp3 */,
+				578AF205263B094600E65846 /* jf-openhuninn-1.1.ttf */,
 				578AF1EB263AF3E800E65846 /* AppDelegate.swift */,
 				578AF1ED263AF3E800E65846 /* SceneDelegate.swift */,
 				578AF1EF263AF3E800E65846 /* ViewController.swift */,
@@ -124,9 +133,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57FD23BA263E3E9700C479F9 /* Yayyy.mp3 in Resources */,
 				578AF1F8263AF3EC00E65846 /* LaunchScreen.storyboard in Resources */,
+				578AF206263B094600E65846 /* jf-openhuninn-1.1.ttf in Resources */,
 				578AF1F5263AF3EC00E65846 /* Assets.xcassets in Resources */,
 				578AF1F3263AF3E800E65846 /* Main.storyboard in Resources */,
+				57FD23BD263E3F8700C479F9 /* Crowd Aww.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
